@@ -1,22 +1,24 @@
 # QA Manual Portfolio – OrangeHRM Demo
 
-**Project:** Manual QA practice using OrangeHRM Demo  
-**URL SUT (System Under Test):** https://opensource-demo.orangehrmlive.com/
+Project: Manual QA practice using OrangeHRM Demo
+System Under Test (SUT) URL: https://opensource-demo.orangehrmlive.com/
 
-## Apa yang ada di repo ini
-- `01_TestPlan/` → Test plan (scope, tujuan, environment)
+## What's in this repo:
+- `01_TestPlan/` → Test plan (scope, objectives, environment)
 - `02_TestCases/` → Test cases (Login, Forgot Password, Directory)
-- `03_BugReports/` → Template & contoh bug report
-- `04_Screenshots/` → Bukti eksekusi test (screenshot)
-- `05_TestExecution/` → Test Execution Report (hasil ringkasan)
-- `06_SDLC_STLC/` → Ringkasan SDLC & STLC (singkat)
+- `03_BugReports/` → Bug report templates & examples
+- `04_Screenshots/` → Test execution evidence (screenshots)
+- `05_TestExecution/` → Test Execution Report (summary results)
+- `06_SDLC_STLC/` → SDLC & STLC summary (short)
 
-## Tools yang dipakai
-- Manual testing: Excel / Google Sheets  
-- Screenshot: Snipping Tool / Lightshot  
-- (Opsional) Postman untuk API testing
+## Tools used:
+- Manual testing: Excel / Google Sheets
+- Screenshot: Snipping Tool / Lightshot
+- (Optional) Postman for API testing
 
-## Penulis
-Nama: [Nama Kamu]  
-Email: [email@example.com]  
-LinkedIn: [link]
+## Author
+Name: [Leorensus Marpaung]
+Email: [Leorensusmarpaung@gmail.com]
+LinkedIn: [www.linkedin.com/in/
+leorensus-marpaung
+]
